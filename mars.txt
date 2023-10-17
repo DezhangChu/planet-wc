@@ -1,0 +1,6 @@
+
+this is a mars.txt file
+
+modified the first time
+
+added another line
